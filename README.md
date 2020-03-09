@@ -1,0 +1,2 @@
+# LabTwo
+Sum of cubes
